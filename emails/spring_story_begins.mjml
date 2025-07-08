@@ -1,0 +1,20 @@
+<mjml>
+  <mj-body background-color="#fdfaf6">
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" font-family="Georgia, serif" color="#333">
+          Once upon a season... 🍃
+        </mj-text>
+        <mj-text font-size="16px" color="#555">
+          Hi [First Name],<br/><br/>
+          Spring is here, and so is a new chapter at Fable Nest.<br/><br/>
+          We’ve been quietly crafting fresh scents, cozy textures, and thoughtful pieces to help you welcome the season in slow, beautiful ways.<br/><br/>
+          From hand-poured floral candles to woven blankets in soft, earthy tones — everything is inspired by the stories this season tells.<br/><br/>
+          <a href="https://fablenest.example.com/spring">🌸 Preview the Spring Collection »</a><br/><br/>
+          With warmth,<br/>
+          Evan from Fable Nest
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
