@@ -1,0 +1,22 @@
+<mjml>
+  <mj-body background-color="#fdfaf6">
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" font-family="Georgia, serif" color="#333">
+          Fresh scents, soft textiles — just landed.
+        </mj-text>
+        <mj-text font-size="16px" color="#555">
+          The wait is over — our Spring Collection just launched!<br/><br/>
+          Every piece in this drop was designed to bring story, stillness, and softness into your home. Think garden-inspired candles, pastel-woven throws, and small-batch bundles made for gifting.<br/><br/>
+          Quantities are limited (we’re a tiny shop, after all), so now’s the perfect time to grab your favorite pieces.<br/><br/>
+          <a href="https://fabelnest.example.com/candles">🕯 Explore Candles »</a><br/>
+          <a href="https://fabelnest.example.com/textiles">🧺 See Blankets & Textiles »</a><br/>
+          <a href="https://fabelnest.example.com/gifts">🎁 Shop Gift Bundles »</a><br/><br/>
+          Use code <strong>FABLE15</strong> for 15% off your first order.<br/><br/>
+          With care,<br/>
+          The Fable Nest Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
